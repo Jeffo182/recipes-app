@@ -14,6 +14,6 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 Como instalar?
 Faça o clone deste repositório com gh repo clone devsakae/myfood
 
-Instale as dependências com nom install
+Instale as dependências com npm install
 
 Rode o projeto com npm start
