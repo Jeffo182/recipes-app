@@ -1,4 +1,6 @@
-#[Recipes-App]: https://recipes-app-beta-jet.vercel.app/
+#
+
+(https://recipes-app-beta-jet.vercel.app/ "Recipes-App")
 Uma aplicacao de receitas para o seu dia a dia.
 
 ![Screenshot](./public/login.jpg)
