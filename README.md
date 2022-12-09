@@ -12,7 +12,7 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 - quais arquivos/pastas foram desenvolvidos pela Trybe.
 -->
 Como instalar?
-Faça o clone deste repositório com gh repo clone devsakae/myfood
+Faça o clone deste repositório com git clone git@github.com:Jeffo182/recipes-app.git
 
 Instale as dependências com npm install
 
