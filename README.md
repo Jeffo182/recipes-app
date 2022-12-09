@@ -1,4 +1,4 @@
-#Recipes-App
+#[Recipes-App]: https://recipes-app-beta-jet.vercel.app/
 Uma aplicacao de receitas para o seu dia a dia.
 
 ![Screenshot](./public/login.jpg)
