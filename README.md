@@ -11,6 +11,6 @@ Como instalar?
 Faça o clone deste repositório com <code>git clone git@github.com:Jeffo182/recipes-app.git</code>
 
 
-Instale as dependências com <code>nom install</code>
+Instale as dependências com <code>npm install</code>
 
 Rode o projeto com <code>npm start</code>
