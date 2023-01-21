@@ -4,6 +4,8 @@
 
 Uma aplicacao de receitas para o seu dia a dia.
 
+Para testar a aplicação insira um e-mail válido e uma senha com no mínimo 7 digitos.
+
 ![Screenshot](./public/login.jpg)
 
 ##
